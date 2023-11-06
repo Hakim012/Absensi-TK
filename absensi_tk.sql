@@ -1,13 +1,14 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
+-- version 4.8.4
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 04, 2022 at 11:19 AM
--- Server version: 10.4.20-MariaDB
--- PHP Version: 7.4.21
+-- Generation Time: Nov 06, 2023 at 04:59 PM
+-- Server version: 10.1.37-MariaDB
+-- PHP Version: 7.0.33
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
 
@@ -18,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `simpanan_bumdesa`
+-- Database: `absensi_tk`
 --
 
 -- --------------------------------------------------------
