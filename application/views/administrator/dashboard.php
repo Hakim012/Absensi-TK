@@ -1,18 +1,18 @@
 <?php if($level == "Admin"){ ?>
 
 <div class="container-fluid">
-    <div class="alert alert-info" role="alert">
+    <!-- <div class="alert alert-info" role="alert">
         <i class="fas fa-tachometer-alt"></i> Dashboard <?php echo $level; ?>
     </div>
     <div  class="alert alert-info" role="alert">
         <center><h4 class="alert-heading">Selamat Datang!</h4></center>
         <center><p>Selamat Datang <strong><?php echo $username;?></strong> di Website BUMDES Sungai Nibung, Anda login sebagai <strong> <?php echo $level; ?></strong></p></center>
         <hr>
-        <!-- <center> <img class="img-profile " src="<?php echo base_url() ?>assets/home/images/Bumdes-Badan-Usaha-Milik-Desa.png" width="60%" ></center> -->
+        <center> <img class="img-profile " src="<?php echo base_url() ?>assets/home/images/Bumdes-Badan-Usaha-Milik-Desa.png" width="60%" ></center>
         <p>
     
         
-    </div>
+    </div> -->
 
     <!-- Modal -->
 
